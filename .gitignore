@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ################################
 ###########  FILES  ############
 ################################
@@ -15,28 +16,50 @@ html/
 ################################
 # Prerequisites
 *.d
+=======
+# Prerequisites
+*.d
+
+>>>>>>> e8c532916b872a1e43bcbada697c53d545324300
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+<<<<<<< HEAD
 *.ko
 *.elf
 # Precompiled Headers
 *.gch
 *.pch
+=======
+
+# Precompiled Headers
+*.gch
+*.pch
+
+>>>>>>> e8c532916b872a1e43bcbada697c53d545324300
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
+<<<<<<< HEAD
 # Fortran module files
 *.mod
 *.smod
+=======
+
+# Fortran module files
+*.mod
+*.smod
+
+>>>>>>> e8c532916b872a1e43bcbada697c53d545324300
 # Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
+<<<<<<< HEAD
 # Executables
 *.i*86
 *.x86_64
@@ -144,3 +167,10 @@ ipch/
 
 # Visual Studio Trace Files
 *.e2e
+=======
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> e8c532916b872a1e43bcbada697c53d545324300
